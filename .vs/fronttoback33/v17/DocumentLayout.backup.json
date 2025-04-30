@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\First\\source\\repos\\fronttoback33\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\repostories\\implementations\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:repostories\\implementations\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\repostories\\abstractions\\isliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:repostories\\abstractions\\isliderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\repostories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:repostories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\models\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:models\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\constans\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:constans\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +39,28 @@
       "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|c:\\users\\first\\source\\repos\\fronttoback33\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1DF3ADC-D400-43B3-833F-76D3AF020D47}|fronttoback33.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +70,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ISliderepository.cs",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Repostories\\Abstractions\\ISliderepository.cs",
+              "RelativeDocumentMoniker": "Repostories\\Abstractions\\ISliderepository.cs",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Repostories\\Abstractions\\ISliderepository.cs",
+              "RelativeToolTip": "Repostories\\Abstractions\\ISliderepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:18:33.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Constans\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "Constans\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Constans\\ConnectionStrings.cs",
+              "RelativeToolTip": "Constans\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:17:39.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Repostories\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repostories\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Repostories\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Repostories\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:15:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:10:16.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:09:52.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -63,85 +152,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-04-30T06:08:17.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T05:49:14.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAjwEsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAjwE4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-30T05:03:01.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Models\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Models\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Models\\_ViewStart.cshtml",
-              "RelativeToolTip": "Models\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T05:03:34.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "Views\\About\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T05:02:38.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAGgJAAAAAAAAAAAAAPcBAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T05:00:38.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
@@ -154,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -163,6 +187,84 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T05:00:02.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:49:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Repostories\\Implementations\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "Repostories\\Implementations\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Repostories\\Implementations\\SliderRepository.cs",
+              "RelativeToolTip": "Repostories\\Implementations\\SliderRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:19:19.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-30T06:08:17.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T05:03:34.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T05:02:38.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\First\\source\\repos\\fronttoback33\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGUJAAAAAAAAAIBJwPcBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T05:00:38.525Z",
               "EditorCaption": ""
             }
           ]
